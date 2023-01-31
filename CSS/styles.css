@@ -60,14 +60,15 @@ hr {
   margin: 0;
 }
 .cloud1 {
-  position: relative;
+  position: absolute;
   top: 80px;
-  left: 350px;
+  right: 380px;
   width: 200px;
 }
 .cloud2 {
   position: absolute;
   width: 200px;
+  left: 405px;
 }
 .pro {
   text-decoration: underline;
